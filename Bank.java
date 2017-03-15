@@ -17,7 +17,7 @@ int numf;
 int nume;
 public Bank()
    {
-  super("  Bank ");
+  super(" $$ Bank ");
   setLayout(new FlowLayout());
   try {
     Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
